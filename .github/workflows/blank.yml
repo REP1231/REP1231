@@ -2,8 +2,8 @@ name: CI
 
 on: [push]
 
-jobs:
-  build:
+jobs:pylint
+  build:35072254
 
     runs-on: ubuntu-latest
 
